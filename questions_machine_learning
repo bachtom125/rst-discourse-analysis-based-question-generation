@@ -3,18 +3,20 @@ RELATION: Cause
 Original nucleus: Online chatbots are replacing human agents along the customer journey,
 Original satellite: changing the way we think about customer engagement across websites and social media platforms.
 
-Question: What changes the way we think about customer engagement across websites and social media platforms according to the text?
+Original Question: What changes the way we think about customer engagement across websites and social media platforms ?
+
+New Question: What changes the way we think about customer engagement across websites and social media platforms according to the text?
 Answer: Online chatbots are replacing human agents along the customer journey.
 
-Distractor 1: Online chatbots are replacing human agents along the customer journey.
-Distractor 2: Online chatbots are replacing human agents along the customer journey.
-Distractor 3: Online chatbots are replacing human agents along the customer journey.
+Distractor 1: Online chatbots are replacing virtual agents along the customer journey.
+Distractor 2: Online chatbots are replacing virtual agents along the customer journey.
+Distractor 3: Online chatbots are replacing virtual agents along the customer journey.
 
 Question: Why are online chatbots replacing human agents along the customer journey in Customer service?
 Answer: Which changes the way we think about customer engagement across websites and social media platforms.
-Distractor 1: Which is a way to improve customer service.
-Distractor 2: Which is a way to improve customer service.
-Distractor 3: Which is a way to improve customer service.
+Distractor 1: Because they can answer frequently asked questions (FAQs) about topics such as shipping.
+Distractor 2: Because they can provide personalized advice, cross-selling products or suggesting sizes for users.
+Distractor 3: Because they can help customers with tasks usually done by virtual assistants and voice assistants.
 
 Context: Depending on your budget, need for speed and precision required, each algorithm type-supervised, unsupervised, semi-supervised, or reinforcement-has its own advantages and disadvantages. For example, decision tree algorithms are used for both predicting numerical values (regression problems) and classifying data into categories. Decision trees use a branching sequence of linked decisions that may be represented with a tree diagram. A prime advantage of decision trees is that they are easier to validate and audit than a neural network. The bad news is that they can be more unstable than other decision predictors. Overall, there are many advantages to machine learning that businesses can leverage for new efficiencies. These include machine learning identifying patterns and trends in massive volumes of data that humans might not spot at all. And this analysis requires little human intervention: just feed in the dataset of interest and let the machine learning system assemble and refine its own algorithms-which will continually improve with more data input over time. Customers and users can enjoy a more personalized experience as the model learns more with every experience with that person. On the downside, machine learning requires large training datasets that are accurate and unbiased. GIGO is the operative factor: garbage in / garbage out. Gathering sufficient data and having a system robust enough to run it might also be a drain on resources. Machine learning can also be prone to error, depending on the input. With too small a sample, the system could produce a perfectly logical algorithm that is completely wrong or misleading. To avoid wasting budget or displeasing customers, organizations should act on the answers only when there is high confidence in the output. Here are just a few examples of machine learning you might encounter every day:
 Speech recognition: It is also known as automatic speech recognition (ASR), computer speech recognition, or speech-to-text, and it is a capability which uses natural language processing (NLP) to translate human speech into a written format. Many mobile devices incorporate speech recognition into their systems to conduct voice search-e.g. Siri-or improve accessibility for texting.
@@ -28,15 +30,17 @@ Can't generate questions!
 Question: , which of the following is the best title?
 Answer: 
 
-Distractor 1: The importance of customer service
-Distractor 2: The importance of customer service
-Distractor 3: The importance of customer service
+Distractor 1: Decision trees are more difficult to validate and audit than neural networks
+Distractor 2: Decision trees are more stable than other decision predictors
+Distractor 3: Decision trees are used for both prediction and classification problems
 
-Question: Why could with too small a sample, the machine learning system produce a perfectly logical algorithm that is completely wrong or misleading according to the text?
+Original Question: Why could with too small a sample, the system produce a perfectly logical algorithm that is completely wrong or misleading ?
+
+New Question: Why could with too small a sample, the machine learning system produce a perfectly logical algorithm that is completely wrong or misleading according to the text?
 Answer: To avoid wasting budget or displeasing customers, organizations should act on the answers only when there is high confidence in the output. Here are just a few examples of machine learning you might encounter every day: Speech recognition: Speech recognition is also known as automatic speech recognition (ASR), computer speech recognition, or speech-to-text, and Speech recognition is a capability which uses natural language processing (NLP) to translate human speech into a written format. Many mobile devices incorporate speech recognition into Many mobile devices systems to conduct voice search-e.g. Siri-or improve accessibility for texting. Customer service: Online chatbots are replacing human agents along the customer journey, changing the way we think about customer engagement across websites and social media platforms. Chatbots answer frequently asked questions (FAQs) about topics such as shipping, or provide personalized advice, cross-selling products or suggesting sizes for users. Examples include virtual agents on e-commerce sites ; messaging bots, using Slack and Facebook Messenger ; and tasks usually done by virtual assistants and voice assistants.
-Distractor 1: To avoid wasting resources or displacing customers, organizations should act on the answers only when there is high confidence in the output
-Distractor 2: To avoid wasting money or displacing customers, organizations should act on the answers only when there is high confidence in the output
-Distractor 3: To avoid wasting resources or displacing customers
+Distractor 1: To ensure that the output is accurate and unbiased
+Distractor 2: To ensure that the output is accurate and unbiased
+Distractor 3: To ensure that the output is accurate and unbiased
 
 Context: Depending on your budget, need for speed and precision required, each algorithm type-supervised, unsupervised, semi-supervised, or reinforcement-has its own advantages and disadvantages. For example, decision tree algorithms are used for both predicting numerical values (regression problems) and classifying data into categories. Decision trees use a branching sequence of linked decisions that may be represented with a tree diagram. A prime advantage of decision trees is that they are easier to validate and audit than a neural network. The bad news is that they can be more unstable than other decision predictors. Overall, there are many advantages to machine learning that businesses can leverage for new efficiencies. These include machine learning identifying patterns and trends in massive volumes of data that humans might not spot at all. And this analysis requires little human intervention: just feed in the dataset of interest and let the machine learning system assemble and refine its own algorithms-which will continually improve with more data input over time. Customers and users can enjoy a more personalized experience as the model learns more with every experience with that person. On the downside, machine learning requires large training datasets that are accurate and unbiased. GIGO is the operative factor: garbage in / garbage out. Gathering sufficient data and having a system robust enough to run it might also be a drain on resources. Machine learning can also be prone to error, depending on the input. With too small a sample, the system could produce a perfectly logical algorithm that is completely wrong or misleading. To avoid wasting budget or displeasing customers, organizations should act on the answers only when there is high confidence in the output. Here are just a few examples of machine learning you might encounter every day:
 Speech recognition: It is also known as automatic speech recognition (ASR), computer speech recognition, or speech-to-text, and it is a capability which uses natural language processing (NLP) to translate human speech into a written format. Many mobile devices incorporate speech recognition into their systems to conduct voice search-e.g. Siri-or improve accessibility for texting.
@@ -50,15 +54,17 @@ Can't generate questions!
 Question: , which of the following is the best title?
 Answer: 
 
-Distractor 1: The importance of customer service
-Distractor 2: The importance of customer service
-Distractor 3: The importance of customer service
+Distractor 1: Decision trees are more difficult to validate and audit than neural networks
+Distractor 2: Decision trees are more stable than other decision predictors
+Distractor 3: Decision trees are used for both prediction and classification problems
 
-Question: Why should to avoid wasting budget or displeasing customers, organizations act on the answers only when there is high confidence in the output of machine learning?
+Original Question: Why should to avoid wasting budget or displeasing customers, organizations act on the answers only when there is high confidence in the output ?
+
+New Question: Why should to avoid wasting budget or displeasing customers, organizations act on the answers only when there is high confidence in the output of machine learning?
 Answer: Are just a few examples of machine learning you might encounter every day: Speech recognition: Speech recognition is also known as automatic speech recognition (ASR), computer speech recognition, or speech-to-text, and Speech recognition is a capability which uses natural language processing (NLP) to translate human speech into a written format. Many mobile devices incorporate speech recognition into Many mobile devices systems to conduct voice search-e.g. Siri-or improve accessibility for texting. Customer service: Online chatbots are replacing human agents along the customer journey, changing the way we think about customer engagement across websites and social media platforms. Chatbots answer frequently asked questions (FAQs) about topics such as shipping, or provide personalized advice, cross-selling products or suggesting sizes for users. Examples include virtual agents on e-commerce sites ; messaging bots, using Slack and Facebook Messenger ; and tasks usually done by virtual assistants and voice assistants.
-Distractor 1: Machine learning can produce a perfectly logical algorithm that is completely wrong or misleading
-Distractor 2: Machine learning can be more accurate and unbiased
-Distractor 3: Machine learning can be more accurate and unbiased
+Distractor 1: Because decision trees are easier to validate and audit than a neural network
+Distractor 2: Because decision trees can be more unstable than other decision predictors
+Distractor 3: Because decision trees identifying patterns and trends in massive volumes of data
 
 Context: Depending on your budget, need for speed and precision required, each algorithm type-supervised, unsupervised, semi-supervised, or reinforcement-has its own advantages and disadvantages. For example, decision tree algorithms are used for both predicting numerical values (regression problems) and classifying data into categories. Decision trees use a branching sequence of linked decisions that may be represented with a tree diagram. A prime advantage of decision trees is that they are easier to validate and audit than a neural network. The bad news is that they can be more unstable than other decision predictors. Overall, there are many advantages to machine learning that businesses can leverage for new efficiencies. These include machine learning identifying patterns and trends in massive volumes of data that humans might not spot at all. And this analysis requires little human intervention: just feed in the dataset of interest and let the machine learning system assemble and refine its own algorithms-which will continually improve with more data input over time. Customers and users can enjoy a more personalized experience as the model learns more with every experience with that person. On the downside, machine learning requires large training datasets that are accurate and unbiased. GIGO is the operative factor: garbage in / garbage out. Gathering sufficient data and having a system robust enough to run it might also be a drain on resources. Machine learning can also be prone to error, depending on the input. With too small a sample, the system could produce a perfectly logical algorithm that is completely wrong or misleading. To avoid wasting budget or displeasing customers, organizations should act on the answers only when there is high confidence in the output. Here are just a few examples of machine learning you might encounter every day:
 Speech recognition: It is also known as automatic speech recognition (ASR), computer speech recognition, or speech-to-text, and it is a capability which uses natural language processing (NLP) to translate human speech into a written format. Many mobile devices incorporate speech recognition into their systems to conduct voice search-e.g. Siri-or improve accessibility for texting.
@@ -71,15 +77,17 @@ Original satellite: just feed in the dataset of interest and let the machine lea
 Question: Why will machine learning feed in the dataset of interest and let the machine learning system assemble and refine the machine learning system own algorithms -which continually improve with more data input over time?
 Answer: Which identifies requires little human intervention:.
 
-Distractor 1: Because it can identify patterns and trends in massive volumes of data that humans might not spot.
-Distractor 2: Because it can be used to predict numerical values and classify data into categories.
-Distractor 3: Because it can be used to predict other decision predictors.
+Distractor 1: Because decision trees are easier to validate and audit than a neural network.
+Distractor 2: Because decision trees can be more unstable than other decision predictors.
+Distractor 3: Because customers and users can enjoy a more personalized experience.
 
-Question: What identifies patterns and trends in massive volumes of data that machine learning identifies requires little human intervention:?
+Original Question: What identifies requires little human intervention: ?
+
+New Question: What identifies patterns and trends in massive volumes of data that machine learning identifies requires little human intervention:?
 Answer: Feed in the dataset of interest and let the machine learning system assemble and refine the machine learning system own algorithms -which will continually improve with more data input over time.
-Distractor 1: Use a branching sequence of linked decisions
-Distractor 2: Improve with more data input over time
-Distractor 3: Identify patterns and trends in massive volumes of data
+Distractor 1: Gather sufficient data and having a system robust enough to run it
+Distractor 2: Let the machine learning system assemble and refine its own algorithms
+Distractor 3: Enjoy a more personalized experience as the model learns more with every experience with that person
 
 Context: Depending on your budget, need for speed and precision required, each algorithm type-supervised, unsupervised, semi-supervised, or reinforcement-has its own advantages and disadvantages. For example, decision tree algorithms are used for both predicting numerical values (regression problems) and classifying data into categories. Decision trees use a branching sequence of linked decisions that may be represented with a tree diagram. A prime advantage of decision trees is that they are easier to validate and audit than a neural network. The bad news is that they can be more unstable than other decision predictors. Overall, there are many advantages to machine learning that businesses can leverage for new efficiencies. These include machine learning identifying patterns and trends in massive volumes of data that humans might not spot at all. And this analysis requires little human intervention: just feed in the dataset of interest and let the machine learning system assemble and refine its own algorithms-which will continually improve with more data input over time. Customers and users can enjoy a more personalized experience as the model learns more with every experience with that person. On the downside, machine learning requires large training datasets that are accurate and unbiased. GIGO is the operative factor: garbage in / garbage out. Gathering sufficient data and having a system robust enough to run it might also be a drain on resources. Machine learning can also be prone to error, depending on the input. With too small a sample, the system could produce a perfectly logical algorithm that is completely wrong or misleading. To avoid wasting budget or displeasing customers, organizations should act on the answers only when there is high confidence in the output. Here are just a few examples of machine learning you might encounter every day:
 Speech recognition: It is also known as automatic speech recognition (ASR), computer speech recognition, or speech-to-text, and it is a capability which uses natural language processing (NLP) to translate human speech into a written format. Many mobile devices incorporate speech recognition into their systems to conduct voice search-e.g. Siri-or improve accessibility for texting.
@@ -107,16 +115,18 @@ Original satellite: only when there is high confidence in the output.
 Question: In what condition should organizations do machine learning when there be high confidence in the output of machine learning?
 Answer: Organizations should act on the answers.
 
-Distractor 1: Organizations should not waste budget or displeasing customers.
-Distractor 2: Organizations should not displease customers.
-Distractor 3: Organizations should not displease customers.
+Distractor 1: Organizations should use a large training datasets.
+Distractor 2: Organizations should gather sufficient data and have a system robust enough to run it.
+Distractor 3: Organizations should produce a perfectly logical algorithm that is completely wrong or misleading.
 
-Question: In what condition should organizations  act on the answers?
-Answer: when there is high confidence in the output..
+Original Question: In what condition should organizations act on the answers ?
 
-Distractor 1: When there is too small a sample, the system could produce a perfectly logical algorithm that is completely wrong or misleading.
-Distractor 2: When there is too small a sample, the system could produce a perfectly logical algorithm that is completely wrong or misleading.
-Distractor 3: When there is too small a sample, the system could produce a perfectly logical algorithm that is completely wrong or misleading.
+New Question: In what condition should organizations act on the answers to machine learning questions?
+Answer: When there is high confidence in the output.
+
+Distractor 1: When there is a large training dataset.
+Distractor 2: When there is a strong enough system to run it.
+Distractor 3: When there is a high probability of error.
 
 Context: Depending on your budget, need for speed and precision required, each algorithm type-supervised, unsupervised, semi-supervised, or reinforcement-has its own advantages and disadvantages. For example, decision tree algorithms are used for both predicting numerical values (regression problems) and classifying data into categories. Decision trees use a branching sequence of linked decisions that may be represented with a tree diagram. A prime advantage of decision trees is that they are easier to validate and audit than a neural network. The bad news is that they can be more unstable than other decision predictors. Overall, there are many advantages to machine learning that businesses can leverage for new efficiencies. These include machine learning identifying patterns and trends in massive volumes of data that humans might not spot at all. And this analysis requires little human intervention: just feed in the dataset of interest and let the machine learning system assemble and refine its own algorithms-which will continually improve with more data input over time. Customers and users can enjoy a more personalized experience as the model learns more with every experience with that person. On the downside, machine learning requires large training datasets that are accurate and unbiased. GIGO is the operative factor: garbage in / garbage out. Gathering sufficient data and having a system robust enough to run it might also be a drain on resources. Machine learning can also be prone to error, depending on the input. With too small a sample, the system could produce a perfectly logical algorithm that is completely wrong or misleading. To avoid wasting budget or displeasing customers, organizations should act on the answers only when there is high confidence in the output. Here are just a few examples of machine learning you might encounter every day:
 Speech recognition: It is also known as automatic speech recognition (ASR), computer speech recognition, or speech-to-text, and it is a capability which uses natural language processing (NLP) to translate human speech into a written format. Many mobile devices incorporate speech recognition into their systems to conduct voice search-e.g. Siri-or improve accessibility for texting.
@@ -129,16 +139,18 @@ Original satellite: depending on the input.
 Question: What condition depends on the input of machine learning?
 Answer: Machine learning can also be prone to error.
 
-Distractor 1: Machine learning can produce a perfectly logical algorithm that is completely wrong or misleading.
-Distractor 2: Machine learning can produce a perfectly logical algorithm that is completely wrong or misleading.
-Distractor 3: Machine learning can produce a perfectly logical algorithm that is completely wrong or misleading.
+Distractor 1: The system should be robust enough to run it.
+Distractor 2: The output of machine learning is not accurate.
+Distractor 3: The output of machine learning is not reliable.
 
-Question: In what condition can machine learning  also be prone to error,?
-Answer: which depends on the input..
+Original Question: In what condition can machine learning also be prone to error ?
 
-Distractor 1: Which depends on the size of the sample.
-Distractor 2: Which depends on the size of the sample.
-Distractor 3: Which depends on the size of the sample.
+New Question: In what condition can machine learning also be prone to error in machine learning?
+Answer: Which depends on the input.
+
+Distractor 1: With too small a sample, the system could produce a perfectly logical algorithm that is completely wrong or misleading.
+Distractor 2: With too small a sample, the system could produce a perfectly logical algorithm that is completely wrong or misleading.
+Distractor 3: With too small a sample, the system could produce a perfectly logical algorithm that is completely wrong or misleading.
 
 Context: Depending on your budget, need for speed and precision required, each algorithm type-supervised, unsupervised, semi-supervised, or reinforcement-has its own advantages and disadvantages. For example, decision tree algorithms are used for both predicting numerical values (regression problems) and classifying data into categories. Decision trees use a branching sequence of linked decisions that may be represented with a tree diagram. A prime advantage of decision trees is that they are easier to validate and audit than a neural network. The bad news is that they can be more unstable than other decision predictors. Overall, there are many advantages to machine learning that businesses can leverage for new efficiencies. These include machine learning identifying patterns and trends in massive volumes of data that humans might not spot at all. And this analysis requires little human intervention: just feed in the dataset of interest and let the machine learning system assemble and refine its own algorithms-which will continually improve with more data input over time. Customers and users can enjoy a more personalized experience as the model learns more with every experience with that person. On the downside, machine learning requires large training datasets that are accurate and unbiased. GIGO is the operative factor: garbage in / garbage out. Gathering sufficient data and having a system robust enough to run it might also be a drain on resources. Machine learning can also be prone to error, depending on the input. With too small a sample, the system could produce a perfectly logical algorithm that is completely wrong or misleading. To avoid wasting budget or displeasing customers, organizations should act on the answers only when there is high confidence in the output. Here are just a few examples of machine learning you might encounter every day:
 Speech recognition: It is also known as automatic speech recognition (ASR), computer speech recognition, or speech-to-text, and it is a capability which uses natural language processing (NLP) to translate human speech into a written format. Many mobile devices incorporate speech recognition into their systems to conduct voice search-e.g. Siri-or improve accessibility for texting.
@@ -149,7 +161,9 @@ RELATION: Enablement
 Original nucleus: Many mobile devices incorporate speech recognition into their systems 
 Original satellite: to conduct voice search-e.g. Siri-or improve accessibility for texting. 
 
-Question: How do Many mobile devices incorporate speech recognition into their systems to conduct voice search?
+Original Question: How do Many mobile devices incorporate speech recognition into Many mobile devices systems ?
+
+New Question: How do Many mobile devices incorporate speech recognition into their systems to conduct voice search?
 Answer: To conduct voice search-e.g. Siri-or improve accessibility for texting.
 
 Distractor 1: To translate human speech into a written format.
@@ -159,9 +173,9 @@ Distractor 3: To conduct voice search-e.g. Siri-or improve accessibility for tex
 Question: What can be done to conduct voice search-e.g. Siri-or improve accessibility for texting according to the text?
 Answer: Many mobile devices incorporate speech recognition into Many mobile devices systems.
 
-Distractor 1: Many mobile devices incorporate speech recognition into Many mobile devices systems.
-Distractor 2: Many mobile devices incorporate speech recognition into Many mobile devices systems.
-Distractor 3: Many mobile devices incorporate speech recognition into Many mobile devices systems.
+Distractor 1: Online chatbots are replacing human agents along the customer journey.
+Distractor 2: Organizations should act only when there is high confidence in the output.
+Distractor 3: Many organizations should act on the answers only when there is high confidence in the output.
 
 Context: Depending on your budget, need for speed and precision required, each algorithm type-supervised, unsupervised, semi-supervised, or reinforcement-has its own advantages and disadvantages. For example, decision tree algorithms are used for both predicting numerical values (regression problems) and classifying data into categories. Decision trees use a branching sequence of linked decisions that may be represented with a tree diagram. A prime advantage of decision trees is that they are easier to validate and audit than a neural network. The bad news is that they can be more unstable than other decision predictors. Overall, there are many advantages to machine learning that businesses can leverage for new efficiencies. These include machine learning identifying patterns and trends in massive volumes of data that humans might not spot at all. And this analysis requires little human intervention: just feed in the dataset of interest and let the machine learning system assemble and refine its own algorithms-which will continually improve with more data input over time. Customers and users can enjoy a more personalized experience as the model learns more with every experience with that person. On the downside, machine learning requires large training datasets that are accurate and unbiased. GIGO is the operative factor: garbage in / garbage out. Gathering sufficient data and having a system robust enough to run it might also be a drain on resources. Machine learning can also be prone to error, depending on the input. With too small a sample, the system could produce a perfectly logical algorithm that is completely wrong or misleading. To avoid wasting budget or displeasing customers, organizations should act on the answers only when there is high confidence in the output. Here are just a few examples of machine learning you might encounter every day:
 Speech recognition: It is also known as automatic speech recognition (ASR), computer speech recognition, or speech-to-text, and it is a capability which uses natural language processing (NLP) to translate human speech into a written format. Many mobile devices incorporate speech recognition into their systems to conduct voice search-e.g. Siri-or improve accessibility for texting.
@@ -172,19 +186,21 @@ RELATION: Enablement
 Original nucleus: organizations should act on the answers only when there is high confidence in the output. 
 Original satellite: To avoid wasting budget or displeasing customers, 
 
-Question: How should organizations act on the answers only when there is high confidence in the output of machine learning?
+Original Question: How should organizations act on the answers only when there is high confidence in the output ?
+
+New Question: How should organizations act on the answers only when there is high confidence in the output of machine learning?
 Answer: To avoid wasting budget or displeasing customers.
 
-Distractor 1: To ensure that the output of machine learning is accurate and unbiased.
-Distractor 2: To ensure that the output of machine learning is accurate and unbiased.
-Distractor 3: To ensure that the output of machine learning is accurate and unbiased.
+Distractor 1: To produce a perfectly logical algorithm that is completely wrong or misleading.
+Distractor 2: To assemble and refine the machine learning system.
+Distractor 3: To identify patterns and trends in massive volumes of data.
 
 Question: What can be done To avoid wasting budget or displeasing customers with machine learning?
 Answer: Organizations should act on the answers only when there is high confidence in the output.
 
 Distractor 1: Organizations should use a large training datasets that are accurate and unbiased.
-Distractor 2: Organizations should use a large training datasets that are accurate and unbiased.
-Distractor 3: Organizations should use a large training datasets that are accurate and unbiased.
+Distractor 2: Organizations should gather sufficient data and have a system robust enough to run it.
+Distractor 3: Organizations should produce a perfectly logical algorithm that is completely wrong or misleading.
 
 Context: Depending on your budget, need for speed and precision required, each algorithm type-supervised, unsupervised, semi-supervised, or reinforcement-has its own advantages and disadvantages. For example, decision tree algorithms are used for both predicting numerical values (regression problems) and classifying data into categories. Decision trees use a branching sequence of linked decisions that may be represented with a tree diagram. A prime advantage of decision trees is that they are easier to validate and audit than a neural network. The bad news is that they can be more unstable than other decision predictors. Overall, there are many advantages to machine learning that businesses can leverage for new efficiencies. These include machine learning identifying patterns and trends in massive volumes of data that humans might not spot at all. And this analysis requires little human intervention: just feed in the dataset of interest and let the machine learning system assemble and refine its own algorithms-which will continually improve with more data input over time. Customers and users can enjoy a more personalized experience as the model learns more with every experience with that person. On the downside, machine learning requires large training datasets that are accurate and unbiased. GIGO is the operative factor: garbage in / garbage out. Gathering sufficient data and having a system robust enough to run it might also be a drain on resources. Machine learning can also be prone to error, depending on the input. With too small a sample, the system could produce a perfectly logical algorithm that is completely wrong or misleading. To avoid wasting budget or displeasing customers, organizations should act on the answers only when there is high confidence in the output. Here are just a few examples of machine learning you might encounter every day:
 Speech recognition: It is also known as automatic speech recognition (ASR), computer speech recognition, or speech-to-text, and it is a capability which uses natural language processing (NLP) to translate human speech into a written format. Many mobile devices incorporate speech recognition into their systems to conduct voice search-e.g. Siri-or improve accessibility for texting.
